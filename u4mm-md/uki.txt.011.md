@@ -4,11 +4,9 @@ FireFTP (http://fireftp.mozdev.org/) သည္ Firefox extension တြင္ FT
 
 ##Firefox Widgets
 
-Turn off browser bar drop-down list in Firefox
+Firefox တြင္ browser bar ရွိ drop-down list အားပိတ္ထားရန္။
 
-Firefox တြင္ drop-down list ရွိ browser bar အားပိတ္ထားရန္။
-
-၎သည္ Firefox တြင္ တစ္ခါတစ္ရံမွသာ ျဖစ္ေပၚတတ္ေသာ ျပႆနာျဖစ္သည္။ drop-down list ရွိ location browser bar အား ပိတ္ထားရန္ (http://kb.mozillazine.org/Browser.urlbar.maxRichResults) (ထိုသို႕ျပဳလုပ္ျခင္းျဖင့္ သင့္ browsing history အားျပသေတာ့မည္မဟုတ္ပါ။)
+၎သည္ Firefox တြင္ တစ္ခါတစ္ရံမွသာ ျဖစ္ေပၚတတ္ေသာ ျပႆနာျဖစ္သည္။ drop-down list ရွိ location browser bar အား ပိတ္ထားရန္ (http://kb.mozillazine.org/Browser.urlbar.maxRichResults) (ထိုသို႕ျပဳလုပ္ျခင္းျဖင့္ သင့္ browsing history အားျပသေတာ့မည္မဟုတ္ပါ)
 
 Firefox -  about:config (in the location browser bar) - browser.urlbar.maxRichResults-right-click-Modify-set value to 0
 
